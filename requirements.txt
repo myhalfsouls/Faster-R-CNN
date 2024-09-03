@@ -1,0 +1,10 @@
+albumentations
+fiftyone
+fiftyone_brain
+matplotlib
+numpy
+Pillow
+pycocotools
+torch
+torchvision
+tqdm
